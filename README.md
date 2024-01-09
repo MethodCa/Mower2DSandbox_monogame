@@ -1,7 +1,7 @@
 # Mower2DSandbox - MonoGame
 Mono2D sandbox minigame, written in C# using MonoGame Framework[^1], open-source implementation of the Microsoft XNA Framework that supports all gaming platforms.
 
-<img src="https://user-images.githubusercontent.com/15893276/295272962-9d554e73-5226-4c56-a79e-155082c06609.png" data-canonical-src="[https://user-images.githubusercontent.com/15893276/9d554e73-5226-4c56-a79e-155082c06609.png](https://user-images.githubusercontent.com/15893276/295272962-9d554e73-5226-4c56-a79e-155082c06609.png)" width="801" height="519" />
+<img src="https://user-images.githubusercontent.com/15893276/295272962-9d554e73-5226-4c56-a79e-155082c06609.png" data-canonical-src="[https://user-images.githubusercontent.com/15893276/9d554e73-5226-4c56-a79e-155082c06609.png](https://user-images.githubusercontent.com/15893276/295272962-9d554e73-5226-4c56-a79e-155082c06609.png)" width="200" height="519" />
 
 
 The mini-game was written to test the OpenGL mathematics library GLM[^4], sprites, texture atllas management, game object collisions and camera movement.
