@@ -20,11 +20,15 @@ The mini-game simulates the behaviour of an electric grass mower that moves free
      return direction * velocity * deltaTime;
  }
 ```
+Original pixel art and animations were created in Aseprite[^2] to test the framework.
+
+![atlas](https://github.com/MethodCa/Mower2DSandbox_monogame/assets/15893276/78b00c86-7ddb-4fb9-9b1b-9eff8046eed5)
 
 
 > [!NOTE]
 > Please ignore any artifacts or lower framerate in the GIF, these are products of the GIF compression, in execution the game is displayed without artifacts and at 60 FPS.
 
 [^1]: [MonoGame](https://monogame.net/) Open-source implementation of the Microsoft XNA Framework that supports all gaming platforms. 
+[^2]: [Aseprite]([https://monogame.net/](https://www.aseprite.org/)) Animated sprite editor and pixel art tool.
 
 
