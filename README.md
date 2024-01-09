@@ -1,5 +1,5 @@
 # Mower2DSandbox - MonoGame
-Mono2D sandbox minigame, written in C# using MonoGame Framework[^1], a lightweight framework to write games using C / C++ additionally GLEW[^2] was used to help manage OpenGL extensions and GLFW[^3] for window managemend with OpenGL and managing user input.
+Mono2D sandbox minigame, written in C# using MonoGame Framework[^1], open-source implementation of the Microsoft XNA Framework that supports all gaming platforms.
 
 ![image](https://github.com/MethodCa/Mower2DSandbox/assets/15893276/294a2212-2608-4a81-b013-488f9714fba5)
 
