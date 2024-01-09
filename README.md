@@ -20,8 +20,8 @@ The mini-game simulates the behaviour of an electric grass mower that moves free
      return direction * velocity * deltaTime;
  }
 ```
-Original pixel art and animations were created in Aseprite[^2] to test a custom Sprite animation class written for the project.
-https://github.com/MethodCa/Mower2DSandbox_monogame/blob/9e6a44e7e2c2da5c1b81547d2832c1b1b772f954/MowerApp.cs#L9C5-L135C6
+Original pixel art and animations were created in Aseprite[^2] to test a custom [Sprite animation](https://github.com/MethodCa/Mower2DSandbox_monogame/blob/9e6a44e7e2c2da5c1b81547d2832c1b1b772f954/MowerApp.cs#L9C5-L135C6) class written for the project.
+
 
 ![atlas](https://github.com/MethodCa/Mower2DSandbox_monogame/assets/15893276/78b00c86-7ddb-4fb9-9b1b-9eff8046eed5)
 
