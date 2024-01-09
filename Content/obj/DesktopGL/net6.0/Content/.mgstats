@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/sarue/Desktop/Mower_monoGame/Mower/Content/fonts/Aseprite.spritefont","C:/Users/sarue/Desktop/Mower_monoGame/Mower/Content/bin/DesktopGL/Content/fonts/Aseprite.xnb","FontDescriptionProcessor","SpriteFontContent",2071,70687,0.1396072
+"C:/Users/sarue/Desktop/Mower_monoGame/Mower/Content/Levels/map_01.xml","C:/Users/sarue/Desktop/Mower_monoGame/Mower/Content/bin/DesktopGL/Content/Levels/map_01.xnb","PassThroughProcessor","Object",144,177,0.0785536
+"C:/Users/sarue/Desktop/Mower_monoGame/Mower/Content/Sprites/atlas.png","C:/Users/sarue/Desktop/Mower_monoGame/Mower/Content/bin/DesktopGL/Content/Sprites/atlas.xnb","TextureProcessor","Texture2DContent",1099,114133,0.0788335
