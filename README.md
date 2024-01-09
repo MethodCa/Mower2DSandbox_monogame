@@ -5,9 +5,10 @@ Mono2D sandbox minigame, written in C# using MonoGame Framework[^1], open-source
 
 
 
-The mini-game was written to test the OpenGL mathematics library GLM[^4], sprites, texture atllas management, game object collisions and camera movement.
+The mini-game was written to test the MonoGame content pipeline, math libriary, sprite animation, sprite batching technology, texture atllas management, and game object collisions.
 
-![mower](https://github.com/MethodCa/Mower2DSandbox/assets/15893276/9168736e-7337-4152-be49-5ad6ee0d3e88)
+![mowerMonogame](https://github.com/MethodCa/Mower2DSandbox_monogame/assets/15893276/3b31a370-63f1-4ae8-844f-748d3f690ca9)
+
 
 The mini-game simulates the behaviour of an electric grass mower that moves freely throughout a pre-defined grass area and collides with obstacles and area limits. When a collision is encountered the mower's direction is changed using trigonometric functions as shown in the next code snipped:
 
